@@ -1,7 +1,13 @@
 pandas 
 numpy
-pymongo
-python-dotenv
+pymongo==4.2.0
+python-dotenv==0.21.0
 PyYAML
 Flask
+pickle5
+scipy
+sklearn
+scikit-learn
+
 -e .
+
